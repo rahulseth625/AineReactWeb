@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AineReactWeb/static/css/main.0b830c68.chunk.css",
+    "main.js": "/AineReactWeb/static/js/main.fc39bc11.chunk.js",
+    "main.js.map": "/AineReactWeb/static/js/main.fc39bc11.chunk.js.map",
+    "runtime-main.js": "/AineReactWeb/static/js/runtime-main.b5e00594.js",
+    "runtime-main.js.map": "/AineReactWeb/static/js/runtime-main.b5e00594.js.map",
+    "static/js/2.1c8c2ab3.chunk.js": "/AineReactWeb/static/js/2.1c8c2ab3.chunk.js",
+    "static/js/2.1c8c2ab3.chunk.js.map": "/AineReactWeb/static/js/2.1c8c2ab3.chunk.js.map",
+    "static/js/3.9a1f0e09.chunk.js": "/AineReactWeb/static/js/3.9a1f0e09.chunk.js",
+    "static/js/3.9a1f0e09.chunk.js.map": "/AineReactWeb/static/js/3.9a1f0e09.chunk.js.map",
+    "index.html": "/AineReactWeb/index.html",
+    "static/css/main.0b830c68.chunk.css.map": "/AineReactWeb/static/css/main.0b830c68.chunk.css.map",
+    "static/js/2.1c8c2ab3.chunk.js.LICENSE.txt": "/AineReactWeb/static/js/2.1c8c2ab3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AineReactWeb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5e00594.js",
+    "static/js/2.1c8c2ab3.chunk.js",
+    "static/css/main.0b830c68.chunk.css",
+    "static/js/main.fc39bc11.chunk.js"
+  ]
+}
