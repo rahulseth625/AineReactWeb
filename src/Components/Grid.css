@@ -95,13 +95,41 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 
 .vl {
-  border-left: 6px solid green;
-  height: 500px;
+  border-left: 7px solid #1a7e9c;
+  height: 88px;
   position: absolute;
-  left: 50%;
-  margin-left: -3px;
+  left: 0%;
+  margin-left: 1px;
   top: 0;
 }
+
+.menu a .fa{
+  padding-right: 15px;
+}
+
+.menu a:before{
+  content:'';
+  position:absolute;
+  width: 4px;
+  height: 100%;
+  background-color: #3a16d6;
+  left:0;
+  top:0;
+  transition: .3s;
+  opacity: 0;
+}
+
+.menu a:hover:before{
+  opacity: 1;
+  visibility: visible;
+}
+
+.menu a:focus:before{
+  opacity: 1;
+  visibility: visible;
+}
+
+
 
 .vid{
   margin-top: -4rem;
@@ -261,7 +289,7 @@ kbd,
 samp {
   font-family: var(--bs-font-monospace);
   font-size: 1em;
-  direction: ltr /* rtl:ignore */;
+  direction: ltr;
   unicode-bidi: bidi-override;
 }
 
@@ -4346,7 +4374,9 @@ textarea.form-control-lg {
   margin-right: 0;
   margin-left: 0;
 }
-.card > .list-group {
+.card > .list-group a:hover, .active{
+  color: #3a16d6;
+  background-color: #F5F5F5;
   border-top: inherit;
   border-bottom: inherit;
 }
@@ -5197,8 +5227,9 @@ textarea.form-control-lg {
 }
 .list-group-item-light.list-group-item-action:hover, .list-group-item-light.list-group-item-action:focus {
   color: #636464;
-  background-color: #e5e5e5;
+  background-color: rgb(189, 218, 228);
 }
+
 .list-group-item-light.list-group-item-action.active {
   color: #fff;
   background-color: #636464;
@@ -6439,6 +6470,10 @@ textarea.form-control-lg {
 
 .d-flex {
   display: flex !important;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .d-inline-flex {
