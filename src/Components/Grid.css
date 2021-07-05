@@ -2758,7 +2758,7 @@ textarea.form-control-lg {
   position: relative;
   display: flex;
   flex-wrap: wrap;
-  align-items: stretch;
+  align-items: center;
   width: 20%;
   margin-top: -4%;
 }
@@ -4406,19 +4406,19 @@ textarea.form-control-lg {
 
 .card-body {
   flex: 1 1 auto;
-  padding: 1% 26%;
+  /* padding: 1% 26%; */
 }
 
 .card-margin{
-  margin-top: 80%;
+  margin-top: 100%;
   margin-bottom: 50%;
-  padding-left: 11%
+  padding-left: 0%
 }
 
 .card-title {
-  margin-bottom: 5%;
+  margin-bottom: 100%;
   align-content: right;
-  width: 100%;
+  width: 250%;
 }
 
 .card-subtitle {
