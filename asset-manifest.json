@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AineReactWeb/static/css/main.3a9e2479.chunk.css",
+    "main.css": "/AineReactWeb/static/css/main.7a4f7aeb.chunk.css",
     "main.js": "/AineReactWeb/static/js/main.38f15d86.chunk.js",
     "main.js.map": "/AineReactWeb/static/js/main.38f15d86.chunk.js.map",
     "runtime-main.js": "/AineReactWeb/static/js/runtime-main.b5e00594.js",
@@ -10,14 +10,14 @@
     "static/js/3.9a1f0e09.chunk.js": "/AineReactWeb/static/js/3.9a1f0e09.chunk.js",
     "static/js/3.9a1f0e09.chunk.js.map": "/AineReactWeb/static/js/3.9a1f0e09.chunk.js.map",
     "index.html": "/AineReactWeb/index.html",
-    "static/css/main.3a9e2479.chunk.css.map": "/AineReactWeb/static/css/main.3a9e2479.chunk.css.map",
+    "static/css/main.7a4f7aeb.chunk.css.map": "/AineReactWeb/static/css/main.7a4f7aeb.chunk.css.map",
     "static/js/2.1c8c2ab3.chunk.js.LICENSE.txt": "/AineReactWeb/static/js/2.1c8c2ab3.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/AineReactWeb/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b5e00594.js",
     "static/js/2.1c8c2ab3.chunk.js",
-    "static/css/main.3a9e2479.chunk.css",
+    "static/css/main.7a4f7aeb.chunk.css",
     "static/js/main.38f15d86.chunk.js"
   ]
 }
