@@ -4054,9 +4054,12 @@ textarea.form-control-lg {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding-top: 3.2rem;
-  padding-bottom: 8rem;
+  padding-top: 3%;
+  padding-bottom: 12%;
   margin-top: 7.1%;
+  /* padding-top: 3.2rem;
+  padding-bottom: 8rem;
+  margin-top: 7.1%; */
 }
 .navbar > .container,
 .navbar > .container-fluid,
