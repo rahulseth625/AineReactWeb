@@ -16,6 +16,9 @@ import HooksCakeContainer from './Components/HooksCakeContainer';
 import { Provider } from 'react-redux';
 import store from './redux/cakes/store'
 import IceCreamContainer from './Components/IceCreamContainer';
+import NewCakeContainer from './Components/NewCakeContainer';
+import ItemContainer from './Components/ItemContainer';
+import UserContainer from './Components/UserContainer';
 
 const FirstName = createContext();
 const LastName = createContext();
@@ -53,6 +56,10 @@ function App() {
           <HooksCakeContainer />
           <CakeContainer />
           <IceCreamContainer />
+          <NewCakeContainer />
+          <ItemContainer cake/>
+          <ItemContainer />
+          <UserContainer />
         </div>
       </Provider>
       {/* UI part */}
